@@ -3,6 +3,7 @@
 let nameList = [
     "Reece",
     "Tony",
+	  "Lukas",
     "Sam"	
 ];
 
@@ -12,6 +13,7 @@ let foods = [
     "Chicken Fried Rice"
     "Pizza", 
     "Lasagna",
+	   "Burgers",
     "Goulash"
 ];
 

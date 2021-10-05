@@ -2,9 +2,10 @@
 
 console.log("Hello");
 
-let nameList = [
+let foods = [
     "Reece",
     "Tony",
+    "Sean",
     "Jonny",
     "Lukas",
     "Sam"	
@@ -14,6 +15,7 @@ let foods = [
     "Pizza",
     "Lasagna",
     "Chicken Fried Rice",
+      "Katsu Curry",
 	"Burgers",
     "Goulash",
     "Tonkatsu"

@@ -8,6 +8,9 @@ let nameList = [
 ];
 
 let foods = [
+    "Pizza",
+    "Lasagna",
+    "Chicken Fried Rice"
     "Pizza", 
     "Lasagna",
 	   "Burgers",

@@ -1,5 +1,7 @@
 `use strict`;
 
+console.log("Hello");
+
 let nameList = [
     "Reece",
     "Tony",
@@ -9,8 +11,9 @@ let nameList = [
 ];
 
 let foods = [
-    "Pizza", 
+    "Pizza",
     "Lasagna",
+    "Chicken Fried Rice",
 	  "Burgers",
     "Goulash",
     "Tonkatsu"

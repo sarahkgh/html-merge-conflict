@@ -2,12 +2,13 @@
 
 let nameList = [
     "Reece",
-    "Tony"
-];
-
+    "Tony",
+    "Sarah"
+    ];
 let foods = [
     "Pizza", 
-    "Lasagna"
+    "Lasagna",
+    "Pasta"
 ];
 
 const randName = nameList[Math.floor(Math.random() * nameList.length)];

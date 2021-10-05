@@ -1,12 +1,12 @@
 `use strict`;
 
 let nameList = [
-    "reece",
+    "Reece",
     "Tony"
 ];
 
 let foods = [
-    "pizza", 
+    "Pizza", 
     "Lasagna"
 ];
 
